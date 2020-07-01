@@ -10,6 +10,17 @@
             "StackName": "amplify-reactawsapp-dev-213543",
             "StackId": "arn:aws:cloudformation:ap-south-1:477819071314:stack/amplify-reactawsapp-dev-213543/b97e9710-bbb4-11ea-809c-02e8bcba16c6",
             "AmplifyAppId": "d3wzc7t3fxfm2"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3wzc7t3fxfm2",
+                    "type": "cicd"
+                }
+            },
+            "auth": {
+                "reactawsapp888023db": {}
+            }
         }
     }
 }
